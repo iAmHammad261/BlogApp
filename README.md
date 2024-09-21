@@ -1,4 +1,4 @@
-# Blogify, A blogging app
+# Inked, A blogging app
 
 A simple Blog App, created using Expo, that lets user create a blog and then view it.
 
